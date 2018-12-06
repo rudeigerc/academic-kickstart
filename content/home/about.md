@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "iOS Development",
-    "Resource Management",
+    "Cluster Resource Management",
   ]
 
 # List your qualifications (such as academic degrees).

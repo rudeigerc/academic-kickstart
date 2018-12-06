@@ -234,9 +234,14 @@ enableGitInfo = true
     link = "https://www.linkedin.com/in/rudeigerc/"
 
   [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/rudeigerc"
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Yuchen_Cheng3"
+
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0002-3230-2180"
 
   # [[params.social]]
   #   icon = "google-scholar"
@@ -269,8 +274,8 @@ enableGitInfo = true
   weight = 1
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Experience"
+  url = "#experience"
   weight = 2
 
 [[menu.main]]

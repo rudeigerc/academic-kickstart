@@ -16,4 +16,4 @@ weight = 60
 +++
 
 - Teaching Assistant
-  - SE232: Programming and Data Structures, *Sep. 2018 - Present*
+  - **SE232**: Programming and Data Structures, _Sep. 2018 - Jan. 2019_
